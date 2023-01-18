@@ -1,0 +1,27 @@
+
+
+
+
+.container-fluid {
+    
+    background-color: whitesmoke;
+    text-transform: uppercase;
+    
+
+}
+
+.text-center {
+    font-size: 40px ;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+
+nav-item{
+
+    color: chartreuse;
+}
+
+#formu{
+    box-shadow: 20px 20px 10px #000;
+}
